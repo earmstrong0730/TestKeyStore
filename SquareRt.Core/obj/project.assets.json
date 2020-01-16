@@ -4112,11 +4112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Elizabeth\\Downloads\\code\\code\\Chapter 9\\SquareRt\\SquareRt.Core\\SquareRt.Core.csproj",
+      "projectUniqueName": "C:\\Users\\Elizabeth\\Documents\\Visual Studio 2019\\Projects\\Xamarin\\TestKeyStore\\SquareRt.Core\\SquareRt.Core.csproj",
       "projectName": "SquareRt.Core",
-      "projectPath": "C:\\Users\\Elizabeth\\Downloads\\code\\code\\Chapter 9\\SquareRt\\SquareRt.Core\\SquareRt.Core.csproj",
+      "projectPath": "C:\\Users\\Elizabeth\\Documents\\Visual Studio 2019\\Projects\\Xamarin\\TestKeyStore\\SquareRt.Core\\SquareRt.Core.csproj",
       "packagesPath": "C:\\Users\\Elizabeth\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Elizabeth\\Downloads\\code\\code\\Chapter 9\\SquareRt\\SquareRt.Core\\obj\\",
+      "outputPath": "C:\\Users\\Elizabeth\\Documents\\Visual Studio 2019\\Projects\\Xamarin\\TestKeyStore\\SquareRt.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
