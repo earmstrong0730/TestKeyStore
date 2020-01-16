@@ -1,5 +1,5 @@
-AndroidUseAapt2=False
-UseSharedRuntime=true
+AndroidUseAapt2=True
+UseSharedRuntime=false
 UseFastDeployment=false
 EnableMultidex=False
 EnableProGuard=
@@ -18,5 +18,8 @@ FastDeploymentType=Assemblies
 TargetFramework=v9.0
 ClassParser=
 CodegenTarget=
+AndroidDexTool=dx
+AndroidLinkTool=
+AndroidEnableProfiledAot=false
 BuildConfiguration=Debug
 TemplateName=
