@@ -1,0 +1,9 @@
+C:\Users\Elizabeth\Downloads\code\code\Chapter 9\SquareRt\SquareRt.Core\bin\Debug\netstandard1.4\SquareRt.Core.deps.json
+C:\Users\Elizabeth\Downloads\code\code\Chapter 9\SquareRt\SquareRt.Core\bin\Debug\netstandard1.4\SquareRt.Core.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 9\SquareRt\SquareRt.Core\bin\Debug\netstandard1.4\SquareRt.Core.pdb
+C:\Users\Elizabeth\Downloads\code\code\Chapter 9\SquareRt\SquareRt.Core\obj\Debug\netstandard1.4\SquareRt.Core.csprojAssemblyReference.cache
+C:\Users\Elizabeth\Downloads\code\code\Chapter 9\SquareRt\SquareRt.Core\obj\Debug\netstandard1.4\SquareRt.Core.csproj.CoreCompileInputs.cache
+C:\Users\Elizabeth\Downloads\code\code\Chapter 9\SquareRt\SquareRt.Core\obj\Debug\netstandard1.4\SquareRt.Core.AssemblyInfoInputs.cache
+C:\Users\Elizabeth\Downloads\code\code\Chapter 9\SquareRt\SquareRt.Core\obj\Debug\netstandard1.4\SquareRt.Core.AssemblyInfo.cs
+C:\Users\Elizabeth\Downloads\code\code\Chapter 9\SquareRt\SquareRt.Core\obj\Debug\netstandard1.4\SquareRt.Core.dll
+C:\Users\Elizabeth\Downloads\code\code\Chapter 9\SquareRt\SquareRt.Core\obj\Debug\netstandard1.4\SquareRt.Core.pdb
